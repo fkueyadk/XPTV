@@ -8,12 +8,8 @@
     {
       "key": "新6V",
       "name": "新6V┃磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.xb6v.com/api.php/provide/vod/"
+      "type": 1,
+      "api": "https://www.xb6v.com/api.php/provide/vod/"
     },
     {
       "name": "华人OK|点播",
