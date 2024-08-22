@@ -70,31 +70,6 @@
       "api": "https://jinyingzy.com/api.php/provide/vod/"
     },
     {
-      "name": "丽丽|点播",
-      "type": 1,
-      "api": "https://lililili.cc/api.php/provide/vod/"
-    },
-    {
-      "name": "乐视|点播",
-      "type": 1,
-      "api": "https://leshiapi.com/api.php/provide/vod/"
-    },
-    {
-      "name": "爱酷|点播",
-      "type": 1,
-      "api": "https://cj.json.icu/aiku.php/provide/vod/"
-    },
-    {
-      "name": "暴风|点播",
-      "type": 1,
-      "api": "https://app.dybfun.com/api.php/provide/vod/"
-    },
-    {
-      "name": "鱼乐|点播",
-      "type": 1,
-      "api": "https://api.ylzy.me/api.php/provide/vod/"
-    },
-    {
       "name": "OK|点播",
       "type": 1,
       "api": "https://okzyw9.com/api.php/provide/vod/"
@@ -103,16 +78,6 @@
       "name": "宝片|点播",
       "type": 1,
       "api": "https://zpsps.com/api.php/provide/vod/"
-    },
-    {
-      "name": "映迷|点播",
-      "type": 1,
-      "api": "https://www.inmi.app/api.php/provide/vod/at/xml"
-    },
-    {
-      "name": "官网|点播",
-      "type": 1,
-      "api": "http://gwcms.cttv.vip/api.php/provide/vod/"
     },
     {
       "name": "小黄人|点播",
@@ -168,11 +133,6 @@
       "name": "ikun|点播",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/"
-    },
-    {
-      "name": "非凡|点播",
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/"
     },
     {
       "name": "量子|点播",
@@ -259,26 +219,21 @@
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
     },
-    
+
+    {
+      "name": "欧乐|VOD🪜",
+      "type": 3,
+      "api": "csp_Olevod"
+    },
     {
       "name": "低端|VOD",
       "type": 3,
       "api": "csp_Ddrk"
     },
     {
-      "name": "厂长|VOD",
-      "type": 3,
-      "api": "csp_Czsapp"
-    },
-    {
       "name": "哔嘀|VOD",
       "type": 3,
       "api": "csp_Bdys"
-    },
-    {
-      "name": "欧乐|VOD🪜",
-      "type": 3,
-      "api": "csp_Olevod"
     },
     {
       "name": "独播库|VOD",
@@ -291,11 +246,6 @@
       "api": "csp_Zxzj"
     },
     {
-      "name": "LIBVIO|VOD",
-      "type": 3,
-      "api": "csp_libvio"
-    },
-    {
       "name": "AGE动漫|VOD",
       "type": 3,
       "api": "csp_age"
@@ -306,29 +256,9 @@
       "api": "csp_girlgirllove"
     },
     {
-      "name": "MISSAV",
-      "type": 3,
-      "api": "csp_Missav"
-    },
-    {
-      "name": "小纸条|网盘",
-      "type": 3,
-      "api": "csp_Gitcafe"
-    },
-    {
-      "name": "玩偶哥哥|网盘",
-      "type": 3,
-      "api": "csp_WoGG"
-    },
-    {
       "name": "阿里小站|网盘",
       "type": 3,
       "api": "csp_pan666"
-    },
-    {
-      "name": "云盘资源|网盘",
-      "type": 3,
-      "api": "csp_yunpan"
     }
   ]
 }
