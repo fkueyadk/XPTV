@@ -1,6 +1,35 @@
 {
   "sites": [
     {
+      "key": "短剧",
+      "name": "🌈上头┃短剧",
+      "type": 3,
+      "api": "csp_Djtt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "原创",
+      "name": "☀原创┃不卡",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },    	  
+    {
       "name": "唐人街影院|点播",
       "type": 1,
       "api": "https://www.chinatownfilm.com/api.php/provide/vod/"
