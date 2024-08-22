@@ -111,11 +111,6 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/"
     },
     {
-      "name": "暴风|点播",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/"
-    },
-    {
       "name": "红牛|点播",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
