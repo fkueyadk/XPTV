@@ -3,6 +3,21 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
+      "name": "唐人街影院|点播",
+      "type": 1,
+      "api": "https://www.chinatownfilm.com/api.php/provide/vod/"
+    },
+    {
+      "name": "华人OK|点播",
+      "type": 1,
+      "api": "https://huaren.live/api.php/provide/vod/"
+    },
+    {
+      "name": "欧乐|VOD🪜",
+      "type": 3,
+      "api": "csp_Olevod"
+    },
+    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
