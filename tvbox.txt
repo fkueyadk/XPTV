@@ -3,11 +3,6 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "name": "欧乐|VOD🪜",
-      "type": 3,
-      "api": "csp_Olevod"
-    },
-    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
