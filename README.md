@@ -2,3 +2,4 @@
 #### 基本资源整合：https://raw.githubusercontent.com/fkueyadk/XPTV/main/allinone.json
 
 #### 直播订阅地址：https://raw.githubusercontent.com/fkueyadk/XPTV/main/iptv.m3u
+#### TVBOX订阅地址：[https://raw.githubusercontent.com/fkueyadk/XPTV/main/iptv.m3u](https://raw.githubusercontent.com/fkueyadk/XPTV/main/tvbox.txt)
