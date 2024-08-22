@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "name": "唐人街影院|点播",
+      "type": 1,
+      "api": "https://www.chinatownfilm.com/api.php/provide/vod/"
+	  },
+    {
+      "name": "华人OK|点播",
+      "type": 1,
+      "api": "https://huaren.live/api.php/provide/vod/"
+    },
+    {
       "name": "360|点播",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/"
