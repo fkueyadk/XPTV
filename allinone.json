@@ -4,7 +4,17 @@
       "name": "唐人街影院|点播",
       "type": 1,
       "api": "https://www.chinatownfilm.com/api.php/provide/vod/"
-	  },
+    },
+    {
+      "key": "新6V",
+      "name": "新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
+    },
     {
       "name": "华人OK|点播",
       "type": 1,
