@@ -143,8 +143,6 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰卫视香港台
 https:\\sc2024.stream-link.org\live\22024016498.php?id=h417vhq
-#EXTINF:-1 tvg-id="EntertainmentNews" tvg-name="TVB娛樂新聞台" tvg-logo="http://content.stream-link.org/tv_logo/astro_tvb_entertainment.png" group-title="香港频道",TVB娛樂新聞台
-https://sc2024.stream-link.org/live/22024016498.php?id=h245qht
 #EXTINF:-1 tvg-name="香港卫视" tvg-id="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="香港频道", 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门卫视" tvg-id="澳门卫视" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="香港频道", 澳门卫视
