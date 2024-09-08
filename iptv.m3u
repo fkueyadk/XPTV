@@ -147,6 +147,8 @@ https:\\sc2024.stream-link.org\live\22024016498.php?id=h417vhq
 https://sc2024.stream-link.org/live/22024016498.php?id=h245qht
 #EXTINF:-1 tvg-name="香港卫视" tvg-id="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="香港频道", 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门卫视" tvg-id="澳门卫视" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="香港频道", 澳门卫视
+http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="台湾频道", 民視
 https://gat.zhoujie218.top/litv/4gtv-4gtv155
